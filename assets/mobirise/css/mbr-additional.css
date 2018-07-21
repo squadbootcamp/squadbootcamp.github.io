@@ -2,7 +2,7 @@
   display: none !important;
 }
 #dropdown-menu-0 .navbar-brand a {
-  font-size: 30px;
+  font-size: 15px;
 }
 #dropdown-menu-0 .nav .link,
 #dropdown-menu-0 .dropdown-item {
@@ -27,15 +27,21 @@
 #header1-5 P {
   text-align: right;
 }
+#header1-5 H1 {
+  font-size: 23px;
+  text-align: center;
+}
 #slider-2 H1 {
   color: #f7da64;
+  text-align: center;
 }
 #slider-2 P {
   color: #fac51c;
-  text-align: center;
+  text-align: right;
 }
 #slider-2 B {
   color: #000000;
+  font-size: 18px;
 }
 #msg-box5-3 .mbr-header__text {
   color: #ffffff;

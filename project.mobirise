@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-20_1606",
-    "currentPage": "index.html",
+    "currentPage": ".html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,11 +15,11 @@
     "versionPublish": "4.8.1"
   },
   "pages": {
-    "index.html": {
+    ".html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "مركز فرقة التدريب",
+        "meta_descr": "  نحن مركز فرقة التدريبات للياقة البدنية .نعمل في مجال تدريب اللياقة البدنية والتخسيس ونطمح ان نكون من افضل الاندية الرياضيه في المملكه لاتتردد في الانضمام لنا ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -31,7 +31,7 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "30px"
+              "font-size": "15px"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
@@ -89,7 +89,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -112,6 +112,10 @@
           "_styles": {
             "P": {
               "text-align": "right"
+            },
+            "H1": {
+              "font-size": "23px",
+              "text-align": "center"
             }
           }
         },
@@ -168,14 +172,16 @@
           "_anchor": "slider-2",
           "_styles": {
             "H1": {
-              "color": "#f7da64"
+              "color": "#f7da64",
+              "text-align": "center"
             },
             "P": {
               "color": "#fac51c",
-              "text-align": "center"
+              "text-align": "right"
             },
             "B": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             }
           }
         },

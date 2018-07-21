@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-20_1606",
-    "currentPage": ".html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     "versionPublish": "4.8.1"
   },
   "pages": {
-    ".html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "مركز فرقة التدريب",
